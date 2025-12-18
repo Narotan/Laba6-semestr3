@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab6.dir/src/main.cpp.o CMakeFiles/lab6.dir/src/db_manager.cpp.o -o lab6   -L/opt/homebrew/lib/postgresql@14  -Wl,-rpath,/opt/homebrew/lib/postgresql@14 -lpq

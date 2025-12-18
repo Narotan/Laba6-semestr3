@@ -1,0 +1,3 @@
+/Users/danil/education/semestr3/Laba6-semestr3/build/CMakeFiles/lab6.dir
+/Users/danil/education/semestr3/Laba6-semestr3/build/CMakeFiles/edit_cache.dir
+/Users/danil/education/semestr3/Laba6-semestr3/build/CMakeFiles/rebuild_cache.dir
